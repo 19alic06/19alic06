@@ -1,16 +1,17 @@
-## Hi there 👋
+# Merhaba, ben Muhammed Ali! 👋
 
-<!--
-**19alic06/19alic06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bilişim Teknolojileri Öğrencisi | Yazılım Geliştirici | Maker**
 
-Here are some ideas to get you started:
+Donanım ve yazılımı birleştiren projeler geliştiriyorum. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Teknolojiler & Yetenekler
+* **Diller:** Python, C++ , Web tasarım
+* **Robotik:** Arduino, Sensör Entegrasyonu, OpenCV, MediaPipe
+  
+
+### 📈 GitHub İstatistiklerim
+![Ali'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=19alic06&show_icons=true&theme=radical)
+![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=19alic06&layout=compact&theme=radical)
+
+---
+*Vizyonum: Stratejik disiplinle karmaşık problemlere yenilikçi çözümler üretmek.*
